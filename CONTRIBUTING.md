@@ -5,6 +5,6 @@ The project should be complete, though if you want to contribute to this project
 1. Code:
 - [Quinn Cotter](https://github.com/quinncie)
 
-2.Debugging + Code Review:
+2. Debugging + Code Review:
 - [Jason Jones-Ryan](https://github.com/lungless-chest)
 </details>
