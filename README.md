@@ -7,6 +7,7 @@ modules, and I'm worried about breaking the code if I try.
 
 - --fhost : Use this modifier to set the IP address that you want to scan with Shodan.
 - --apikey : Use this to set the Shodan apikey to run the scan.
+  
 If you are going to try this out, remember to add
 'export PYTHONPATH=/usr/share/metasploit-framework/lib/msf/core/modules/external/python:$PYTHONPATH'
 to your .bashrc or .zshrc to make sure the metasploit module is usable.
